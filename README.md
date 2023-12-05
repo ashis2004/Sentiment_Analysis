@@ -15,4 +15,4 @@ how the model will treat this input: In the images we have pixes at it store in 
 Standardization
 Tokenization
 Encoding
-For the data I would be like from IMDB Dataset of 50K Movie Reviews:
+For the data I would be like from IMDB Dataset of 50K Movie Reviews;
